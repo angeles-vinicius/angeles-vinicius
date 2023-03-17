@@ -11,11 +11,14 @@
   <a href="https://www.youtube.com/@AngelesVinicius/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   </a>
 </div> 
+<div>
+   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<div align="center">
-  <a href="https://github.com/angeles-vinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeles-vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeles-vinicius&layout=compact&langs_count=7&theme=dark"/>
+   <div align="center">
+     <a href="https://github.com/angeles-vinicius">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeles-vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeles-vinicius&layout=compact&langs_count=7&theme=dark"/>
+   </div>
 </div>
    
 <div style="display: inline_block" align="center"><br>
