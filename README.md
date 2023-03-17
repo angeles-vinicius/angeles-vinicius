@@ -1,6 +1,10 @@
 <h1 align="right">
-   Hi there! I'm Angeles Vinicius 🧑‍💻
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there! 🧑‍💻
 </h1>
+
+<p align="right" class="descricao">
+   <span style="display: inline" class="meu_nome">I'm Angeles Vinicius, a developer from Brazil who is passionate about technologies and innovation...</span>
+</p>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/angeles-vinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
