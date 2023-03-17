@@ -3,7 +3,7 @@
 </h1>
 
 <p align="right" class="descricao">
-   <span style="display: inline" class="meu_nome">I'm Angeles Vinicius, a developer from Brazil who is passionate about technologies and innovation...</span>
+   <span style="display: inline" class="meu_nome">「 I'm Angeles Vinicius, a developer from <b>Brazil</b> who is passionate about technologies and innovation 」</span>
 </p>
 
 <div align="right">
@@ -35,6 +35,16 @@
    <img align="center" alt="Angeles-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
+   - ⚡ Fun Facts: 
+
+    * Besides programming, I'm a traveller, a Melophile and love to cook.
+
+    * You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+    
+    * If you're still reading, why not follow me ?? Let's Connect !!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 <!--
 **angeles-vinicius/angeles-vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
