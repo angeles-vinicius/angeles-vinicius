@@ -42,6 +42,8 @@
     * You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
     
     * If you're still reading, why not follow me ?? Let's Connect !!
+   
+    * Se vc chegou até aqui, pq não me seguir? Let's Connect !!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
