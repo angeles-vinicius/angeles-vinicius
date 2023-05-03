@@ -24,7 +24,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeles-vinicius&layout=compact&langs_count=7&theme=dark"/>
    </div>
 </div>
-   
+
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Angeles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Angeles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +34,7 @@
    <img align="center" alt="Angeles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Angeles-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
-
+ <hr>
    - ⚡ Fun Facts: 
 
     * Besides programming, I'm a traveller, a Melophile and love to cook.
