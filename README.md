@@ -35,6 +35,7 @@
    <img align="center" alt="Angeles-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="Angeles-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Angeles-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+   <img align="center" alt="Angeles-SAP" height="30" width="40" src="https://raw.githubusercontent.com/angeles-vinicius/angeles-vinicius/main/sap-icon.svg">
 </div>
  <hr>
    - ⚡ Fun Facts: 
