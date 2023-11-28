@@ -37,9 +37,10 @@
  <hr>
    - ⚡ Fun Facts: 
 
-    * Besides programming, I'm a traveller, a Melophile and love to cook.
+    * Besides programming, I'm a traveler, a Melophile, and love to cook.
 
-    * You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+    * You know you're a programmer when you spend a day to find the problem,
+       and then fix it with one line of code.
     
     * If you're still reading, why not follow me ?? Let's Connect !!
    
